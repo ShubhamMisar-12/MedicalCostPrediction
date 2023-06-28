@@ -22,13 +22,18 @@ I performed extensive exploratory data analysis (EDA) on the dataset and impleme
 - `README.md`: This file, providing an overview of the project.
 - `medical-cost-prediction-1.ipynb`: Containing the project code for medical cost prediction, regression analysis, and EDA. The current version is 9 and was last updated 2 days ago.
 - `Data`: A folder containing the `insurance.csv` file, which is the dataset used in the project.
+- `Requirements.txt`: Contains all the libararies used in the project.
 
 ## Usage
 
 To use the code in this project, follow the instructions below:
 
-1. Open the `medical-cost-prediction-1.ipynb` notebook in Jupyter or any other compatible environment.
-2. Run the notebook cells sequentially to perform the exploratory data analysis, regression analysis, and medical cost prediction.
+1. Run the command
+   ```bash
+    pip install -r Requirements.txt
+   ```
+2. Open the `medical-cost-prediction-1.ipynb` notebook in Jupyter or any other compatible environment.
+3. Run the notebook cells sequentially to perform the exploratory data analysis, regression analysis, and medical cost prediction.
 
 ## License
 

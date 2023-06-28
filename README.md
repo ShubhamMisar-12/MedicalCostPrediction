@@ -14,7 +14,7 @@ This repository contains a project where I worked on a dataset related to medica
 
 ## Project Details
 
-I performed extensive exploratory data analysis (EDA) on the dataset and implemented regression models using linear regression and random forest algorithms to predict the impact of smoking on medical costs.
+I performed extensive exploratory data analysis (EDA) on the dataset and implemented regression models using linear regression and random forest algorithms to predict the impact of all the above features on medical costs.
 
 ## File Structure
 
